@@ -1,4 +1,4 @@
-[![Badge](https://github.com/ren1ty/TechnicalZad2/actions/workflows/javatest.yml/badge.svg)](https://github.com/ren1ty/TechnicalZad2/actions/workflows/javatest.ymll)
+[![Badge](https://github.com/ren1ty/TechnicalZad2/actions/workflows/maven.yml/badge.svg)](https://github.com/ren1ty/TechnicalZad2/actions/workflows/maven.ymll)
 
 # Всем привет!
 ## Это
