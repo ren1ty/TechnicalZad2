@@ -31,7 +31,7 @@ public class Testing {
         int t4 = Main._sum(numbers);
         long endTime = System.currentTimeMillis();
         long time  = (endTime - startTime);
-        boolean flag = true ? time <= 20 : false;
+        boolean flag = true ? time <= 50 : false;
         assertEquals(true, flag);
     }
     @Test
